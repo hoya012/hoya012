@@ -24,7 +24,7 @@
 - [TFUG(TensorFlow KR Facebook Group)](https://www.facebook.com/groups/TensorFlowKR) Organizer
 - [SNUAI Study](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8?fbclid=IwAR2io8vR63ddTpnvIeioaPczzpFRu6h3aW7-5bQl-dRHP2PpbEa91k0QWAo) Organizer
 - [TFKR PR-12 Study](https://www.youtube.com/results?search_query=pr12) Season 3 Presenter
-- [Research Blog (Korean)](hoya012.github.io)
+- [Research Blog (Korean)](https://hoya012.github.io)
 
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/hoseong-lee-96709516a/
