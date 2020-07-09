@@ -1,4 +1,4 @@
-### Hoseong, Lee [@hoya012](hoya012.github.io)
+### Hoseong, Lee [@hoya012](https://hoya012.github.io)
 
 ### 🔭 Career
 - Received the B.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2016.
