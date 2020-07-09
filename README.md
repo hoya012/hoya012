@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hoseong, Lee @hoya012
+
+### 🔭 My Career
+- Received the B.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2016.
+- Received the M.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2018.
+- Joined the SUALAB. ,Seoul, Korea, as a **Machine Learning Research Engineer**, in 2018.
+- SUALAB was acquired by Cognex in 2019.10. So, I am currently working at Cognex.
 
 <!--
 **hoya012/hoya012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
