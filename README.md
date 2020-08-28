@@ -1,5 +1,7 @@
 ### Hoseong, Lee [@hoya012](https://hoya012.github.io)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoya012" alt="hoya012" /> </p>
+
 ### 🔭 Career
 - Received the B.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2016.
 - Received the M.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2018.
@@ -25,6 +27,9 @@
 - [SNUAI Study](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8?fbclid=IwAR2io8vR63ddTpnvIeioaPczzpFRu6h3aW7-5bQl-dRHP2PpbEa91k0QWAo) Organizer
 - [TFKR PR-12 Study](https://www.youtube.com/results?search_query=pr12) Season 3 Presenter
 - [Research Blog (Korean)](https://hoya012.github.io)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoya012&show_icons=true" alt="hoya012" /></p>
+
 
 ### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/hoseong-lee-96709516a/
