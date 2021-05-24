@@ -21,6 +21,14 @@
     - Weakly-Supervised Learning
     - Semi-Supervised Learning
     - Self-Supervised Learning
+- **AI Conference Paper Reading**
+    - [CVPR 2019 Paper Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics)
+    - [ICCV 2019 Paper Statistics](https://github.com/hoya012/ICCV-2019-Paper-Statistics)
+    - [NeurIPS 2019 Paper Statistics](https://github.com/hoya012/NeurIPS-2019-Paper-Statistics)
+    - [CVPR 2020 Paper Statistics](https://github.com/hoya012/CVPR-2020-Paper-Statistics)
+    - [NeurIPS 2020 Paper Statistics](https://github.com/hoya012/NeurIPS-2020-Paper-Statistics)
+    - [CVPR 2021 Paper Statistics](https://github.com/hoya012/CVPR-2021-Paper-Statistics)
+
 
 ### 👯 Side Jobs & Hobby
 - [TFUG(TensorFlow KR Facebook Group)](https://www.facebook.com/groups/TensorFlowKR) Organizer
