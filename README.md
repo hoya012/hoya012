@@ -12,11 +12,16 @@
 - **Image Recognition using Deep Learning**
     - Classification
     - Object Detection
-    - Segmentation
+    - Semantic Segmentation
+    - Labeling Noise Detection
 - **Anomaly Detection**
+    - Out-of-distritubion Detection
+    - Defect Generation
 - **Image Processing using Deep Learning**
     - Super Resolution
     - Style Transfer
+    - Image Denoising
+    - Image Matching
 - **Learning Theory**
     - Weakly-Supervised Learning
     - Semi-Supervised Learning
