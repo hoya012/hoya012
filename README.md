@@ -28,6 +28,8 @@
     - [CVPR 2020 Paper Statistics](https://github.com/hoya012/CVPR-2020-Paper-Statistics)
     - [NeurIPS 2020 Paper Statistics](https://github.com/hoya012/NeurIPS-2020-Paper-Statistics)
     - [CVPR 2021 Paper Statistics](https://github.com/hoya012/CVPR-2021-Paper-Statistics)
+    - [CVPR 2022 Paper Statistics](https://github.com/hoya012/CVPR-2022-Paper-Statistics)
+    - [CVPR 2023 Paper Statistics](https://github.com/hoya012/CVPR-2023-Paper-Statistics)
 
 
 ### 👯 Side Jobs & Hobby
